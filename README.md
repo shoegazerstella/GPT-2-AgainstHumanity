@@ -4,10 +4,11 @@ Use GPT-2 to generate new cards for the popular game [Cards Against Humanity](ht
 
 ### Model
 Fine-tuned using the 124M GPT-2 model over 1000 steps.
+
 Download the model from [here](https://drive.google.com/file/d/1zn7Vf34wXwKuLDbt_1VeWRxbio-rNfGE/view?usp=sharing) and unzip it.
 
 ### Dataset
-Dataset used for finetuing can be downloaded from [https://crhallberg.com/cah/](https://crhallberg.com/cah/)
+Dataset used for fine-tuning can be downloaded from [https://crhallberg.com/cah/](https://crhallberg.com/cah/)
 
 ```
 cah-official : 5k samples
