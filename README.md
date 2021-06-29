@@ -10,20 +10,20 @@ Download the model from [here](https://drive.google.com/file/d/1zn7Vf34wXwKuLDbt
 ### Dataset
 Dataset used for fine-tuning can be downloaded from [https://crhallberg.com/cah/](https://crhallberg.com/cah/)
 
-```
+``` bash
 cah-official : 5k samples
 dataset has 163988 tokens
 ```
 
 ### Usage
-```
+``` bash
 pip install -r requirements.txt
 python generate_cards.py
 ```
 
 ### Examples
 
-```
+``` bash
 ================
 A month after taking the Pill, I think I'm finally ready for _.
 After months of practice, I finally believe _ is a good idea.
